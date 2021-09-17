@@ -1,0 +1,36 @@
+.caixa-texto{
+    margin: 2rem auto;
+    width: 100%;
+    text-align: center;
+}
+
+.caixa-texto h1{
+    font-size: 1.8rem;
+}
+
+.caixa-texto span{
+    font-size: 1.2rem;
+}
+
+.botoes{
+    margin: 1.2rem 0;
+    text-align: center;
+    width: 100%;
+}
+
+.cv {
+    font-size: 1rem;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.contato{
+    font-size: 1rem;
+    width: 100%;
+}
+
+nav a{
+    display: inline-flex;
+    font-size: 0.8rem;
+    margin-right: 0.8rem;
+}
